@@ -1,2 +1,2 @@
 # Threading
-i have used simple code but i got the concept.
+i have used simple coding but i got the concept.
